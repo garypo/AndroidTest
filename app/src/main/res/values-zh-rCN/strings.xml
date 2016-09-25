@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">首个手机应用程式</string>
+    <string name="button_send">发送</string>
+    <string name="edit_message">输入讯息</string>
+    <string name="recvd_message">接收到的讯息</string>
+</resources>
